@@ -1,6 +1,5 @@
 THIS file is a data preprocessing and classification file focused on land usage classification in agriculture.
 
-Overall summary:
 	•	The file begins with an introduction, objectives, and abstract, explaining that it aims to classify different types of land usage (likely using remote sensing or agricultural imagery).
 	•	It loads training and testing datasets containing multiple color bands (Im_Red, Im_Green, Im_Blue, Mk_Red, Mk_Green, Mk_Blue) and a HEX column for color representation.
 	•	The data is cleaned and converted to the correct types (int64), ensuring compatibility for further analysis or modeling.
